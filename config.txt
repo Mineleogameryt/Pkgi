@@ -1,0 +1,11 @@
+url_games https://bit.ly/Ps3_Games
+url_dlcs https://bit.ly/PS3_DLCS
+url_themes https://bit.ly/PS3_THEMES
+url_demos https://bit.ly/PS3_DEMOS
+url_avatars https://bit.ly/PS3_AVATARS
+language pt
+content 1
+sort name
+order asc
+filter ASA,EUR,JPN,USA
+no_music 1
